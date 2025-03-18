@@ -1,0 +1,3 @@
+[submodule "submodules/example-submodule"]
+	path = submodules/example-submodule
+	url = https://github.com/Xm798/example-submodule
